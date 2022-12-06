@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\кодинг\\Geek Brains\\ЛЕКЦИИ И ПРАКТИКА\\3-.C#\\СЕМИНАРЫ\\семинар №1\\дз\\Home_work_1\\HW-3\\HW-3.csproj": {}
+    "F:\\кодинг\\Geek Brains\\ЛЕКЦИИ И ПРАКТИКА\\3-.C#\\СЕМИНАРЫ\\семинар №1\\дз\\Home_work_1\\Task-3\\HW-3.csproj": {}
   },
   "projects": {
-    "F:\\кодинг\\Geek Brains\\ЛЕКЦИИ И ПРАКТИКА\\3-.C#\\СЕМИНАРЫ\\семинар №1\\дз\\Home_work_1\\HW-3\\HW-3.csproj": {
+    "F:\\кодинг\\Geek Brains\\ЛЕКЦИИ И ПРАКТИКА\\3-.C#\\СЕМИНАРЫ\\семинар №1\\дз\\Home_work_1\\Task-3\\HW-3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\кодинг\\Geek Brains\\ЛЕКЦИИ И ПРАКТИКА\\3-.C#\\СЕМИНАРЫ\\семинар №1\\дз\\Home_work_1\\HW-3\\HW-3.csproj",
+        "projectUniqueName": "F:\\кодинг\\Geek Brains\\ЛЕКЦИИ И ПРАКТИКА\\3-.C#\\СЕМИНАРЫ\\семинар №1\\дз\\Home_work_1\\Task-3\\HW-3.csproj",
         "projectName": "HW-3",
-        "projectPath": "F:\\кодинг\\Geek Brains\\ЛЕКЦИИ И ПРАКТИКА\\3-.C#\\СЕМИНАРЫ\\семинар №1\\дз\\Home_work_1\\HW-3\\HW-3.csproj",
+        "projectPath": "F:\\кодинг\\Geek Brains\\ЛЕКЦИИ И ПРАКТИКА\\3-.C#\\СЕМИНАРЫ\\семинар №1\\дз\\Home_work_1\\Task-3\\HW-3.csproj",
         "packagesPath": "C:\\Users\\Aleks\\.nuget\\packages\\",
-        "outputPath": "F:\\кодинг\\Geek Brains\\ЛЕКЦИИ И ПРАКТИКА\\3-.C#\\СЕМИНАРЫ\\семинар №1\\дз\\Home_work_1\\HW-3\\obj\\",
+        "outputPath": "F:\\кодинг\\Geek Brains\\ЛЕКЦИИ И ПРАКТИКА\\3-.C#\\СЕМИНАРЫ\\семинар №1\\дз\\Home_work_1\\Task-3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aleks\\AppData\\Roaming\\NuGet\\NuGet.Config"

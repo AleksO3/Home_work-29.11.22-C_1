@@ -1,0 +1,15 @@
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\семинар №1\дз\Home_work_1\Task-9\bin\Debug\net6.0\Task-9.exe
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\семинар №1\дз\Home_work_1\Task-9\bin\Debug\net6.0\Task-9.deps.json
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\семинар №1\дз\Home_work_1\Task-9\bin\Debug\net6.0\Task-9.runtimeconfig.json
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\семинар №1\дз\Home_work_1\Task-9\bin\Debug\net6.0\Task-9.dll
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\семинар №1\дз\Home_work_1\Task-9\bin\Debug\net6.0\Task-9.pdb
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\семинар №1\дз\Home_work_1\Task-9\obj\Debug\net6.0\Task-9.csproj.AssemblyReference.cache
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\семинар №1\дз\Home_work_1\Task-9\obj\Debug\net6.0\Task-9.GeneratedMSBuildEditorConfig.editorconfig
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\семинар №1\дз\Home_work_1\Task-9\obj\Debug\net6.0\Task-9.AssemblyInfoInputs.cache
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\семинар №1\дз\Home_work_1\Task-9\obj\Debug\net6.0\Task-9.AssemblyInfo.cs
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\семинар №1\дз\Home_work_1\Task-9\obj\Debug\net6.0\Task-9.csproj.CoreCompileInputs.cache
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\семинар №1\дз\Home_work_1\Task-9\obj\Debug\net6.0\Task-9.dll
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\семинар №1\дз\Home_work_1\Task-9\obj\Debug\net6.0\refint\Task-9.dll
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\семинар №1\дз\Home_work_1\Task-9\obj\Debug\net6.0\Task-9.pdb
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\семинар №1\дз\Home_work_1\Task-9\obj\Debug\net6.0\Task-9.genruntimeconfig.cache
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\семинар №1\дз\Home_work_1\Task-9\obj\Debug\net6.0\ref\Task-9.dll
