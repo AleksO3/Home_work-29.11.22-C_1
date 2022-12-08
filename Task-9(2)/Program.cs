@@ -17,10 +17,10 @@ if (digit1 > max)
     max = digit1;
     Console.WriteLine($"Максимальное из чисел первое {max}");
 }
-// if (digit1 == digit2)
-// {
-//     Console.WriteLine("Оба числа равны!");
-// }
+else if (digit1 == digit2)
+{
+    Console.WriteLine("Оба числа равны!");
+}
 else
 {
     max = digit2;
