@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\кодинг\\Geek Brains\\ЛЕКЦИИ И ПРАКТИКА\\3-.C#\\СЕМИНАРЫ\\семинар №1\\дз\\Home_work_1\\14(2)\\14(2).csproj",
+      "projectUniqueName": "F:\\кодинг\\Geek Brains\\ЛЕКЦИИ И ПРАКТИКА\\3-.C#\\СЕМИНАРЫ\\дз\\Home_work_1\\14(2)\\14(2).csproj",
       "projectName": "14(2)",
-      "projectPath": "F:\\кодинг\\Geek Brains\\ЛЕКЦИИ И ПРАКТИКА\\3-.C#\\СЕМИНАРЫ\\семинар №1\\дз\\Home_work_1\\14(2)\\14(2).csproj",
+      "projectPath": "F:\\кодинг\\Geek Brains\\ЛЕКЦИИ И ПРАКТИКА\\3-.C#\\СЕМИНАРЫ\\дз\\Home_work_1\\14(2)\\14(2).csproj",
       "packagesPath": "C:\\Users\\Aleks\\.nuget\\packages\\",
-      "outputPath": "F:\\кодинг\\Geek Brains\\ЛЕКЦИИ И ПРАКТИКА\\3-.C#\\СЕМИНАРЫ\\семинар №1\\дз\\Home_work_1\\14(2)\\obj\\",
+      "outputPath": "F:\\кодинг\\Geek Brains\\ЛЕКЦИИ И ПРАКТИКА\\3-.C#\\СЕМИНАРЫ\\дз\\Home_work_1\\14(2)\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aleks\\AppData\\Roaming\\NuGet\\NuGet.Config"
