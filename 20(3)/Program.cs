@@ -19,5 +19,5 @@ if (Xa == Xb && Ya == Yb)
 else
 {
     double Res = Math.Sqrt(Math.Pow(Xb - Xa,2) + Math.Pow(Yb - Ya,2));
-    Console.WriteLine($"Длина отрезка AB равна {Res}");
+    Console.WriteLine($"Длина отрезка AB равна {Res:f2}");
 }
