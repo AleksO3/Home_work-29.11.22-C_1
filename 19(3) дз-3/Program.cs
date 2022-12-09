@@ -4,3 +4,5 @@
 // 12821 -> да
 // 23432 -> да
 Console.Clear();
+Console.WriteLine("Введите пятизначное число или около того");
+int a = Convert.ToInt32(Console.ReadLine());
