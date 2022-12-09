@@ -1,0 +1,15 @@
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\Доп.материал Arrays\bin\Debug\net6.0\Доп.материал Arrays.exe
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\Доп.материал Arrays\bin\Debug\net6.0\Доп.материал Arrays.deps.json
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\Доп.материал Arrays\bin\Debug\net6.0\Доп.материал Arrays.runtimeconfig.json
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\Доп.материал Arrays\bin\Debug\net6.0\Доп.материал Arrays.dll
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\Доп.материал Arrays\bin\Debug\net6.0\Доп.материал Arrays.pdb
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\Доп.материал Arrays\obj\Debug\net6.0\Доп.материал Arrays.csproj.AssemblyReference.cache
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\Доп.материал Arrays\obj\Debug\net6.0\Доп.материал Arrays.GeneratedMSBuildEditorConfig.editorconfig
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\Доп.материал Arrays\obj\Debug\net6.0\Доп.материал Arrays.AssemblyInfoInputs.cache
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\Доп.материал Arrays\obj\Debug\net6.0\Доп.материал Arrays.AssemblyInfo.cs
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\Доп.материал Arrays\obj\Debug\net6.0\Доп.материал Arrays.csproj.CoreCompileInputs.cache
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\Доп.материал Arrays\obj\Debug\net6.0\Доп.материал Arrays.dll
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\Доп.материал Arrays\obj\Debug\net6.0\refint\Доп.материал Arrays.dll
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\Доп.материал Arrays\obj\Debug\net6.0\Доп.материал Arrays.pdb
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\Доп.материал Arrays\obj\Debug\net6.0\Доп.материал Arrays.genruntimeconfig.cache
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\Доп.материал Arrays\obj\Debug\net6.0\ref\Доп.материал Arrays.dll
