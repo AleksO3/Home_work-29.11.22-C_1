@@ -6,6 +6,13 @@
 Console.Clear();
 Console.WriteLine("Введите трехзначное число");
 int N = Convert.ToInt32(Console.ReadLine());
+if (N < 100 || N > 999)
+{
+    Console.WriteLine($"число {N} не является трехзначным, пожалуйста попроьуйте ввести ещё раз");
+}
+else
+{
 int N2 = N / 10;
 int N3 = N2 % 10;
 Console.WriteLine($" {N3} ");
+}
