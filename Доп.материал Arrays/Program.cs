@@ -3,3 +3,6 @@
 
 // int result = Int32.Parse(input);
 // Console.WriteLine(result); Преобразовать строку в Int
+
+// 4-й семинар в задачу на 18 строку int A = ReadInt("Введите число: ");
+// Console.WriteLine(string.Join(", ", array)); 
