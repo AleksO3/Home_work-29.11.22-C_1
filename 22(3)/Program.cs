@@ -7,5 +7,5 @@ int N = Convert.ToInt32(Console.ReadLine());
 int i = 1;
 for (i=1; i <= N; i++)
 {
-    Console.WriteLine($"Квадрат чисел от 1 до {N} где {i}^2 {i * i}");
+    Console.WriteLine($"Квадрат числа от 1 до {N} где {i}^2 {i * i}");
 }
