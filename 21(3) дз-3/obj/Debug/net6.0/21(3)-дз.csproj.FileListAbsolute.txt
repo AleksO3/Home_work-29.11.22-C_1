@@ -1,0 +1,30 @@
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\21(3)-дз\bin\Debug\net6.0\21(3)-дз.exe
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\21(3)-дз\bin\Debug\net6.0\21(3)-дз.deps.json
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\21(3)-дз\bin\Debug\net6.0\21(3)-дз.runtimeconfig.json
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\21(3)-дз\bin\Debug\net6.0\21(3)-дз.dll
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\21(3)-дз\bin\Debug\net6.0\21(3)-дз.pdb
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\21(3)-дз\obj\Debug\net6.0\21(3)-дз.csproj.AssemblyReference.cache
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\21(3)-дз\obj\Debug\net6.0\21(3)-дз.GeneratedMSBuildEditorConfig.editorconfig
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\21(3)-дз\obj\Debug\net6.0\21(3)-дз.AssemblyInfoInputs.cache
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\21(3)-дз\obj\Debug\net6.0\21(3)-дз.AssemblyInfo.cs
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\21(3)-дз\obj\Debug\net6.0\21(3)-дз.csproj.CoreCompileInputs.cache
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\21(3)-дз\obj\Debug\net6.0\21(3)-дз.dll
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\21(3)-дз\obj\Debug\net6.0\refint\21(3)-дз.dll
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\21(3)-дз\obj\Debug\net6.0\21(3)-дз.pdb
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\21(3)-дз\obj\Debug\net6.0\21(3)-дз.genruntimeconfig.cache
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\21(3)-дз\obj\Debug\net6.0\ref\21(3)-дз.dll
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\21(3) дз-3\bin\Debug\net6.0\21(3)-дз.exe
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\21(3) дз-3\bin\Debug\net6.0\21(3)-дз.deps.json
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\21(3) дз-3\bin\Debug\net6.0\21(3)-дз.runtimeconfig.json
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\21(3) дз-3\bin\Debug\net6.0\21(3)-дз.dll
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\21(3) дз-3\bin\Debug\net6.0\21(3)-дз.pdb
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\21(3) дз-3\obj\Debug\net6.0\21(3)-дз.csproj.AssemblyReference.cache
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\21(3) дз-3\obj\Debug\net6.0\21(3)-дз.GeneratedMSBuildEditorConfig.editorconfig
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\21(3) дз-3\obj\Debug\net6.0\21(3)-дз.AssemblyInfoInputs.cache
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\21(3) дз-3\obj\Debug\net6.0\21(3)-дз.AssemblyInfo.cs
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\21(3) дз-3\obj\Debug\net6.0\21(3)-дз.csproj.CoreCompileInputs.cache
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\21(3) дз-3\obj\Debug\net6.0\21(3)-дз.dll
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\21(3) дз-3\obj\Debug\net6.0\refint\21(3)-дз.dll
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\21(3) дз-3\obj\Debug\net6.0\21(3)-дз.pdb
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\21(3) дз-3\obj\Debug\net6.0\21(3)-дз.genruntimeconfig.cache
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\21(3) дз-3\obj\Debug\net6.0\ref\21(3)-дз.dll
