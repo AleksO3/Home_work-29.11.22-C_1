@@ -5,7 +5,8 @@ Console.Clear();
 Console.WriteLine("Введите число");
 int N = Convert.ToInt32(Console.ReadLine());
 int i = 1;
-for (i=1; i <= N; i++)
+for (i=1; i < N; i++)
 {
     Console.WriteLine($"Квадрат числа от 1 до {N} где {i}^2 {i * i}");
 }
+// Console.WriteLine(N*N + "."); для вывода в строку через запятую и с точкой в конце. Нужно убрать слова и Line
