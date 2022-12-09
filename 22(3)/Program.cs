@@ -4,6 +4,8 @@
 Console.Clear();
 Console.WriteLine("Введите число");
 int N = Convert.ToInt32(Console.ReadLine());
-
-for(int )
-Console.WriteLine("Math.Pow(N,2)");
+int i = 1;
+for (i=1; i <= N; i++)
+{
+    Console.WriteLine($"Квадрат чисел от 1 до {N} где {i}^2 {i * i}");
+}
