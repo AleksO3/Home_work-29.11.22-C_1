@@ -8,8 +8,12 @@ Console.Clear();
 Console.WriteLine("Введите пятизначное число или около того");
 int a = Convert.ToInt32(Console.ReadLine());
 string result = (string.Concat($"{a}".Reverse()));
-//int result = Int32.Parse(a);
-if (a == result)
+int Result = Int32.Parse(result);
+if (a == Result)
 {
-    Console.WriteLine("yes");
+    Console.WriteLine("Это ПАЛИНДРОМ");
+}
+else
+{
+    Console.WriteLine("Число не является палиндромом!");
 }
