@@ -5,11 +5,11 @@
 // 23432 -> да
 
 Console.Clear();
-Console.WriteLine("Введите пятизначное число или около того");
-int a = Convert.ToInt32(Console.ReadLine());
-string result = (string.Concat($"{a}".Reverse()));
-int Result = Int32.Parse(result);
-if (a == Result)
+Console.WriteLine("Введите пятизначное число или около того");  // Вывод на экран
+int a = Convert.ToInt32(Console.ReadLine());                    // присвоили значение целого типа переменной "a", которую ввели и конвертировали в Integer
+string res = (string.Concat($"{a}".Reverse()));                 // Concat() — объединяет две и более строки в новую строку; к переменной строкового типа res присвоили развернутое введеное значение
+int Result = Int32.Parse(res);                                  // преобразовали string в число, используя вызов метода Parse. И к переменной целого типа Result присвоили 
+if (a == Result)                                                // Если значения переменной a и развернутой строки, преобразованной в целый тип равны, то это полиндром
 {
     Console.WriteLine("Это ПАЛИНДРОМ");
 }
