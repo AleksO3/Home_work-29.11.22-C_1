@@ -11,13 +11,13 @@ int GiveMeCount(string message)
 }
 
 int N = GiveMeCount("Введите число: ");
-int enterN = Convert.ToString(N).Length;
+int enterN = Convert.ToString(N).Length;                        // Преобразовали к длине string
 int progress = 0;
 int rez = 0;
 
-for (int i = 0; i < enterN; i++)
+for (int i = 0; i < enterN; i++)                                // указали условие < длины числа(строки)
 {
-    progress = N - N % 10;
+    progress = N - N % 10;                                      // каждую итерацию откидываем число
     rez = rez + (N - progress);
     N = N / 10;
 }
