@@ -6,6 +6,13 @@ int GiveMeCount(string Numbers)
 {
     Console.Write(Numbers);
     return Convert.ToInt32(Console.ReadLine());
-// }
-// for(int i=;i)
-// int N = GiveMeCount("Введите число и нажмите ввод (ENTER): ");
+}
+
+for(int i=0;i<9;i++)
+{
+    int N1 = GiveMeCount("Введите число и нажмите ввод (ENTER): ");
+
+}
+
+int[] array = new int[8] {N1, };
+Console.WriteLine(string.Join(", ", array)); 
