@@ -22,5 +22,5 @@ for (int i = 0; i < enterN; i++)
     N = N / 10;
 }
 
-int SumNumbers = rez;
+int SumNumbers = Math.Abs(rez);                                 // Для преобразования отрицательных чисел в положительные
 Console.WriteLine($"Сумма цифр в данном числе = {SumNumbers}");
