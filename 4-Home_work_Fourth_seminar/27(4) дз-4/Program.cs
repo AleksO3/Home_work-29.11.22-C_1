@@ -23,4 +23,4 @@ for (int i = 0; i < enterN; i++)
 }
 
 int SumNumbers = rez;
-Console.WriteLine("Сумма цифр в числе: " + SumNumbers);
+Console.WriteLine($"Сумма цифр в данном числе = {SumNumbers}");
