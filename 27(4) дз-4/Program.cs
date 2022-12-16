@@ -4,20 +4,23 @@
 // 82 -> 10
 // 9012 -> 12
 Console.Clear();
-
 int GiveMeCount(string message)
 {
     Console.WriteLine(message);
     return Convert.ToInt32(Console.ReadLine());
 }
 
-int A = GiveMeCount("Введите число: ");
+int N = GiveMeCount("Введите число: ");
+int enterN = Convert.ToString(N).Length;
+int progress = 0;
+int rez = 0;
 
-int sum = 0;
-for (int i = 0; i <= A; i++)
+for (int i = 0; i < enterN; i++)
 {
-    int digit = A % 10;
-    sum = sum + digit;
+    progress = N - N % 10;
+    rez = rez + (N - progress);
+    N = N / 10;
 }
 
-Console.WriteLine(sum);
+int SumNumbers = rez;
+Console.WriteLine("Сумма цифр в числе: " + SumNumbers);
