@@ -3,14 +3,14 @@
 // Например, в массиве [3,9,-8,1,0,-7,2,-1,8,-3,-1,6] сумма положительных чисел равна 29, сумма отрицательных равна -20.
 Console.Clear();
 
-int[] GetRandomArray(int length, int leftRange, int rightRange)
+int[] GetRandomArray(int length, int leftRange, int rightRange)     // Метод создания случайного массива.
 {
-    int[] array = new int[length]; 
-    Random rand = new Random();
-    for(int i = 0; i < array.Length; i++)
+    int[] array = new int[length];                                  // Создаем массив из Length элементов
+    Random rand = new Random();                                     // Переменная класса Random.
+    for (int i = 0; i < array.Length; i++)
     {
-        array[i] = rand.Next(leftRange, rightRange + 1);
-    }
+        array[i] = rand.Next(leftRange, rightRange + 1);            // Каждому элементу массива делаем присвоение случайного числа.
+    }                                                               // +1 для включения последнего числа, т.е. 9, т.к. изначально оно не входит
 
     return array;
 }
@@ -22,15 +22,15 @@ int[] GetRandomArray(int length, int leftRange, int rightRange)
     int sumPositive = 0;
     int sumNegative = 0;
 
-    for(int i = 0; i < array.Length; i++)
+    for (int i = 0; i < array.Length; i++)
     {
-        if (array[i] > 0) //если элемент положительный
+        if (array[i] > 0)                                           // Если элемент положительный.
         {
-            sumPositive += array[i]; //копить положительную сумму
+            sumPositive += array[i];                                // Копить положительную сумму.
         }
-        else //иначе элемент отрицательный (или == 0)
+        else                                                        // Иначе элемент отрицательный (или == 0).
         {
-            sumNegative += array[i]; // копить отрицательную сумму
+            sumNegative += array[i];                                // Копить отрицательную сумму.
         }
     }
     return (sumPositive, sumNegative);

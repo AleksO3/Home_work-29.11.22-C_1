@@ -10,7 +10,7 @@ int ReadInt(string message)                         // Создали метод
     return Convert.ToInt32(Console.ReadLine());     // От пользователя ответ прочитали, сконвертировали и сразу  отдали
 }
 
-int GetSumToNumber(int number)                  // Метод, который возвращает сумму от 1 до number
+int GetSumToNumber(int number)                      // Метод, который возвращает сумму от 1 до number
 {
     int sum = 0;
     for(int i=1; i<= number;i++)
@@ -20,6 +20,6 @@ int GetSumToNumber(int number)                  // Метод, который в
     return sum;
 }
 
-int A = ReadInt("Введите число: ");             // Используем созданный метод, внося только одну строку
+int A = ReadInt("Введите число: ");                // Используем созданный метод, внося только одну строку
 int result = GetSumToNumber(A);
 Console.WriteLine($"Суииа чисел от 1-го до {A} = {result}");

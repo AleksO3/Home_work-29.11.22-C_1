@@ -14,11 +14,11 @@ int GetProductToNumber(int number)                  // Метод, которы�
     int product = 1;
     for(int i=1; i<= number;i++)
     {
-        product *= i;//product=product*i;
+        product *= i;                               //product=product*i;
     }
     return product;
 }
 
-int A = ReadInt("Введите число: ");             // Используем созданный метод, внося только одну строку
+int A = ReadInt("Введите число: ");                // Используем созданный метод, внося только одну строку
 int result = GetProductToNumber(A);
 Console.WriteLine($"Произведение чисел от 1-го до {A} = {result}");

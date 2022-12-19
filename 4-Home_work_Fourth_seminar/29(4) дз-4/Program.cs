@@ -1,18 +1,19 @@
 ﻿// Практическая работа №4
 // Задача 29: Напишите программу, которая задаёт массив из 8 элементов и выводит их на экран. Данные вводятся с консоли пользователем
 Console.Clear();
-
-int GiveMeCount(string Numbers)
+Console.Write("Введите количество элементов массива, например 8 и кликните ENTER:  ");
+                                                     // Переменная, в которую занесутся вводные значения.
+int ElementsDigit = int.Parse(Console.ReadLine());   // Метод Parse() в качестве параметра принимает строку и возвращает объект текущего типа.
+int[] MyArray = new int[ElementsDigit];              // Создали массив, в который и внесли переменную с количеством элементов.
+                                                     
+for (int i = 0; i < MyArray.Length; i++)             // Благодаря циклу полностью пройдемся по массиву.
 {
-    Console.Write(Numbers);
-    return Convert.ToInt32(Console.ReadLine());
+    Console.Write($"Введите элемент массива под индексом {i} и кликните ENTER:  ");  // Каждую итерацию выводит на экран.
+    MyArray[i] = int.Parse(Console.ReadLine());
 }
 
-for(int i=0;i<9;i++)
+Console.Write($"\n Ваш массив: ");
+for (int i = 0; i < MyArray.Length; i++)
 {
-    int N1 = GiveMeCount("Введите число и нажмите ввод (ENTER): ");
-
+    Console.Write(MyArray[i]);
 }
-
-int[] array = new int[8] {N1, };
-Console.WriteLine(string.Join(", ", array)); 

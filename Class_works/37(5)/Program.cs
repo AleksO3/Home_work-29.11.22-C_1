@@ -7,7 +7,7 @@
 // array.Length  / 2 + array.Length % 2
 
 Console.Clear();
-int[] array = { 55, 2, 3, 4, 5 };
+int[] array = { 1, 2, 3, 4, 5 };
 
 int[] array2 = new int[array.Length  / 2 + array.Length % 2];
 for(int i = 0; i < array2.Length; i++)
