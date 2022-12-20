@@ -14,7 +14,7 @@ int[] RandomArray(int length)
     return array;
 }
 
-int SumOddIndex(int[] array)
+int SumNechet(int[] array)
 {
     int Sum = 0;
     for(int i = 1; i < array.Length; i+=2)
@@ -28,5 +28,5 @@ const int LENGTH = 4;
 
 int[] arr = RandomArray(LENGTH);
 System.Console.WriteLine(string.Join(", ", arr));
-int sum = SumOddIndex(arr);
+int sum = SumNechet(arr);
 System.Console.WriteLine($"Сумма нечетных элементов равна {sum}");
