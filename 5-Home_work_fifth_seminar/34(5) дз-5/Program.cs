@@ -20,16 +20,18 @@ void CreateArray(int[] Digits)
 }
 Console.Write("");
 
-int length = 3;
+int length = 5;
 int[] Digits = new int[length];
 RandomDigits(Digits);
 Console.Write("Имеется массив: ");
 CreateArray(Digits);
 int count = 0;
-int[] digits = new int[length];
 
 for (int i = 0; i < Digits.Length; i++)
-if (Digits[i] % 2 == 0)
-count++;
+{
+    if (Digits[i] % 2 == 0)
+    count++;
+}
 Console.WriteLine();
+
 Console.WriteLine($"Количество четных чисел = {count}");
