@@ -1,4 +1,5 @@
-﻿// Задача 38: Задайте массив натуральных чисел. Найдите разницу между максимальным и минимальным элементов массива.
+﻿// Практическое задание №5
+// Задача 38: Задайте массив натуральных чисел. Найдите разницу между максимальным и минимальным элементов массива.
 // [3 7 22 2 78] -> 76
 Console.Clear();
 
@@ -21,8 +22,6 @@ void PrintArray(int[] digits)
 Console.WriteLine("Укажите размер массива: ");
 int length = Convert.ToInt32(Console.ReadLine());
 int[] digits = new int[length];
-int min = Int32.MaxValue;
-int max = Int32.MinValue;
 
 randomDigits(digits);
 Console.Write("Получите свой массив): ");
