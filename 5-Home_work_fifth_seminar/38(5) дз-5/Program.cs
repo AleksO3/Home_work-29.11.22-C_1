@@ -15,12 +15,12 @@ void randomDigits(int[] digits)
 }
 
 void PrintArray(int[] digits)
-{
+{   Console.Write("[ ");
     for (int i = 0; i < digits.Length; i++)
     {
         Console.Write(digits[i] + " ");
     }
-    Console.WriteLine();
+    Console.WriteLine("]");
 }
 Console.WriteLine("Укажите размер массива: ");
 int length = Convert.ToInt32(Console.ReadLine());
