@@ -7,7 +7,7 @@
 
 Console.Clear();
 Console.WriteLine("Введите любое число ");
-int number = Convert.ToInt32(Console.ReadLine());// Преобразовываем в целое(int) и помещаем в переменную
+int number = Convert.ToInt32(Console.ReadLine());          // Преобразовываем в целое(int) и помещаем в переменную
 
 if (number < 100)
 {

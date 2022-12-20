@@ -14,3 +14,7 @@
 // }
 
 // int SumNumbers = Math.Abs(rez);                                          // Для преобразования отрицательных чисел в положительные
+
+// int ElementsDigit = int.Parse(Console.ReadLine());   // Метод Parse() в качестве параметра принимает строку и возвращает объект текущего типа.
+
+// Console.Write("]");

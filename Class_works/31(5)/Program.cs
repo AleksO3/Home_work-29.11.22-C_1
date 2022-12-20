@@ -15,12 +15,12 @@ int[] GetRandomArray(int length, int leftRange, int rightRange)     // Мето�
     return array;
 }
 
-// 1. сумма положительных элементов
-// 2. сумма отрицательных элементов
+
+
 (int, int) SumPositiveAndNegative(int[] array)
 {
-    int sumPositive = 0;
-    int sumNegative = 0;
+    int sumPositive = 0;                                            // Сумма положительных элементов.
+    int sumNegative = 0;                                            // Сумма отрицательных элементов.
 
     for (int i = 0; i < array.Length; i++)
     {
