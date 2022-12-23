@@ -16,14 +16,14 @@ int counts = 0;
 
 while (true)
 {
-    string enterCount = Console.ReadLine();
-    if (enterCount  == "stop") 
+    string message = Console.ReadLine();
+    if (message  == "stop") 
     {
         break;
     }
     else
     {
-        double.TryParse(enterCount, out double EnterNumber);       // Преобразует представление числа в виде диапазона в формате,
+        double.TryParse(message, out double EnterNumber);       // Преобразует представление числа в виде диапазона в формате,
         if (EnterNumber > 0)                                       // соответствующем стилю. Ключевое out инициирует передачу аргументов по ссылке. 
         {                                                           // В результате этот формальный параметр становится псевдонимом 
             counts++;                                               // для аргумента, который должен представлять собой переменную.
