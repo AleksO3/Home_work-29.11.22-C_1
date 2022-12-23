@@ -16,11 +16,14 @@ double k2 = ReadInt("Введите число: ");
 
 if(k1==k2)
 {
-    Console.WriteLine("Линии параллельны");
-    break;
+    Console.WriteLine("Линии параллельны и в этом измерении не пересекуться");
 }
-double x = (-b2 + b1)/(-k1 + k2);
+
+else
+{
+double x = (b1-b2)/(k2-k1);
 double y = k2 * x + b2;
 
 
 Console.WriteLine($"две прямые пересекутся в точке с координатами X: {x}, Y: {y}");
+}
