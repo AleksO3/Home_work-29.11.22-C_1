@@ -9,9 +9,6 @@ Console.Clear();
 //     Console.WriteLine(message);
 //     return Convert.ToInt32(Console.ReadLine());     // От пользователя ответ прочитали, сконвертировали и сразу  отдали
 // }
-
-Console.Clear();
-
 int counts = 0;
 
 while (true)
