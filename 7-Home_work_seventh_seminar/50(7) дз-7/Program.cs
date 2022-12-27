@@ -33,7 +33,7 @@ for (int i = 0; i < array.GetLength(0); i++)
 Console.WriteLine();
 int x = ReadInt("Введите координаты индекса строки");
 int y = ReadInt("Введите координаты индекса столбца");
-if (x > m || y > n || x < 0 || y < 0 || x > m && y > n || x < 0 && y < 0 || x > m && y < 0 || x < 0 && y > n)
+if (x > m || y > n || x < 0 || y < 0)
     Console.WriteLine("позиции элемента не верно указаны, такого элемента нет");
 else
 {
