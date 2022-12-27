@@ -17,9 +17,9 @@ double[,] GetRandomMatrix(int rows, int columns, int leftRange = -100, int right
     double[,] matr = new double[rows, columns];
 
     var rand = new Random();
-    for (int i = 0; i < matr.GetLength(0); i++)
+    for (int i = 0; i < matr.GetLength(0); i++)                                                 // Строки с 0.
     {
-        for (int j = 0; j < matr.GetLength(1); j++)
+        for (int j = 0; j < matr.GetLength(1); j++)                                             // Столбцы с 1.
         {
             matr[i, j] = (rand.Next(leftRange, rightRange + 1) / 10.0);
         }
@@ -34,7 +34,7 @@ void PrintMatrix(double[,] matr)
         Console.WriteLine();
         for (int j = 0; j < matr.GetLength(1); j++)
         {
-            Console.Write(matr[i, j] + " ");
+            Console.Write(matr[i, j] + "\t");
         }
     }
 }
