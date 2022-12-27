@@ -16,6 +16,7 @@ while (true)
     string message = Console.ReadLine();
     if (message  == "stop")                                     // stop keywords
     {
+        Console.WriteLine("Вы ввели стоп");
         break;
     }
     else
