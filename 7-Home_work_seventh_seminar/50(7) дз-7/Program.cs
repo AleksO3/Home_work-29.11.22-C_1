@@ -37,5 +37,5 @@ if (x > m || y > n || x < 0 || y < 0 || x > m && y > n || x < 0 && y < 0 || x > 
     Console.WriteLine("позиции элемента не верно указаны, такого элемента нет");
 else
 {
-    Console.WriteLine(array[x, y]);
+    Console.WriteLine(array[x-1, y-1]);
 }
