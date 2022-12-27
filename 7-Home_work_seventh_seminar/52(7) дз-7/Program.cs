@@ -14,59 +14,29 @@ int ReadInt(string message)
 
 int rows = ReadInt("Введите колличество строк массива");
 int columns = ReadInt("Введите колличество столбцов массива");
+
 int[,] array = new int[rows, columns];
+// double[,] a = new double[rows, columns];
+double[] b = new double[columns];
 
-
-// double[,] a = new double[5, 5];
-int[] b = new int[rows];
-
-int[,] GetRandomMatrix(int rows, int columns, int leftRange = -10, int rightRange = 10)
+for (int i = 0; i < rows; i++)
 {
-    int[,] matr = new int[rows, columns];
-
-    var rand = new Random();
-    for (int i = 0; i < matr.GetLength(0); i++)
-    {
-        for (int j = 0; j < matr.GetLength(1); j++)
-        {
-            matr[i, j] = rand.Next(leftRange, rightRange + 1);
-        }
-    }
-    return matr;
-}
-
-void PrintMatrix(double[,] matr)
-{
-    for (int i = 0; i < matr.GetLength(0); i++)
-    {
-        Console.WriteLine();
-        for (int j = 0; j < matr.GetLength(1); j++)
-        {
-            Console.Write(matr[i, j] + "\t");
-        }
-    }
-}
-
-// for (int i = 0; i < m; i++)
-// {
-//     for (int j = 0; j < m; j++)
-//     {
-//         array[i, j] = i * j + 1;
-//         Console.Write(array[i, j] + " ");
-//     }
-//     Console.WriteLine();
-// }
-int matrix = GetRandomMatrix(rows, columns);
-PrintMatrix(matrix);
-
-for (int i = 0, k = 0; i < rows; i ++)
-{
-    int summa = 0;
     for (int j = 0; j < rows; j++)
+    {
+        array[i, j] = i * j;
+        Console.Write(array[i, j] + " ");
+    }
+    Console.WriteLine();
+}
+
+for (int i = 0, k = 0; i < columns; i ++)
+{
+    double summa = 0;
+    for (int j = 0; j < columns; j++)
     {
         summa += array[i, j];
     }
     b[k] = summa / rows;
-    Console.WriteLine("Nср столбца " + (i + 1) + " равно: " + b[k]);
+    Console.WriteLine("Среднее арифметическое столбца " + (i + 1) + " равно: " + b[k]);
     k++;
 }
