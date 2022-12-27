@@ -12,31 +12,49 @@ int ReadInt(string message)
     return Convert.ToInt32(Console.ReadLine());
 }
 
-int rows = ReadInt("Введите колличество строк массива");
-int columns = ReadInt("Введите колличество столбцов массива");
-
-int[,] array = new int[rows, columns];
-// double[,] a = new double[rows, columns];
-double[] b = new double[columns];
-
-for (int i = 0; i < rows; i++)
+void RandomDigits(int[,] array)
 {
-    for (int j = 0; j < rows; j++)
+    for (int i = 0; i < array.GetLength(0); i++)
     {
-        array[i, j] = i * j;
-        Console.Write(array[i, j] + " ");
+        for (int j = 0; j < array.GetLength(1); j++)
+        {
+            array[i, j] = new Random().Next(0, 10);
+        }
     }
-    Console.WriteLine();
 }
 
-for (int i = 0, k = 0; i < columns; i ++)
+void PrintArray(int[,] array)
 {
-    double summa = 0;
-    for (int j = 0; j < columns; j++)
+
+    for (int i = 0; i < array.GetLength(0); i++)
     {
-        summa += array[i, j];
+        Console.Write("[ ");
+        for (int j = 0; j < array.GetLength(1); j++)
+        {
+            Console.Write(array[i, j] + " ");
+        }
+        Console.Write("]");
+        Console.WriteLine("");
     }
-    b[k] = summa / rows;
-    Console.WriteLine("Среднее арифметическое столбца " + (i + 1) + " равно: " + b[k]);
-    k++;
 }
+
+int m = ReadInt("Введите колличество строк массива");
+int n = ReadInt("Введите колличество столбцов массива");
+int[,] array = new int[m, n];
+
+int[,] digits = new int[m, n];
+RandomDigits(digits);
+
+for (int i = 0; i < digits.GetLength(1); i++)
+{
+    double arithmeticMean = 0;
+    for (int j = 0; j < digits.GetLength(0); j++)
+    {
+        arithmeticMean = (arithmeticMean + digits[j, i]);
+    }
+    arithmeticMean = arithmeticMean / m;
+    arithmeticMean = Math.Round(arithmeticMean, 1);
+    Console.Write(arithmeticMean + "; ");
+}
+Console.WriteLine();
+PrintArray(digits);
