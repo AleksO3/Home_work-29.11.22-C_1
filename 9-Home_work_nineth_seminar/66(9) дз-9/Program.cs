@@ -11,17 +11,17 @@ int ReadInt(string message)                                             // Ме�
 
 void SumNat(int M, int N, int sum)                                      // Сумма N чисел между заданными значениями.
 {
-  sum = sum + N;
-  if (N <= M)
-  {
-    Console.Write($"Сумма элементов= {sum} ");
-    return;
-  }
-  SumNat(M, N - 1, sum);
+    sum = sum + N;
+    if (N <= M)
+    {
+        Console.Write($"Сумма элементов= {sum} ");
+        return;
+    }
+    SumNat(M, N - 1, sum);
 }
 
 int M = ReadInt("Введите M: ");
 int N = ReadInt("Введите N: ");
 int step = M;
 
-SumNat(M, N, step=0);
+SumNat(M, N, step = 0);
