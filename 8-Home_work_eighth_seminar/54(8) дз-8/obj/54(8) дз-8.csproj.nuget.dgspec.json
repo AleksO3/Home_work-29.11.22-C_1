@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\кодинг\\Geek Brains\\ЛЕКЦИИ И ПРАКТИКА\\3-.C#\\СЕМИНАРЫ\\дз\\Home_work_1\\8-Home_work_seventh_seminar\\54(8) дз-8\\54(8) дз-8.csproj": {}
+    "F:\\кодинг\\Geek Brains\\ЛЕКЦИИ И ПРАКТИКА\\3-.C#\\СЕМИНАРЫ\\дз\\Home_work_1\\8-Home_work_eighth_seminar\\54(8) дз-8\\54(8) дз-8.csproj": {}
   },
   "projects": {
-    "F:\\кодинг\\Geek Brains\\ЛЕКЦИИ И ПРАКТИКА\\3-.C#\\СЕМИНАРЫ\\дз\\Home_work_1\\8-Home_work_seventh_seminar\\54(8) дз-8\\54(8) дз-8.csproj": {
+    "F:\\кодинг\\Geek Brains\\ЛЕКЦИИ И ПРАКТИКА\\3-.C#\\СЕМИНАРЫ\\дз\\Home_work_1\\8-Home_work_eighth_seminar\\54(8) дз-8\\54(8) дз-8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\кодинг\\Geek Brains\\ЛЕКЦИИ И ПРАКТИКА\\3-.C#\\СЕМИНАРЫ\\дз\\Home_work_1\\8-Home_work_seventh_seminar\\54(8) дз-8\\54(8) дз-8.csproj",
+        "projectUniqueName": "F:\\кодинг\\Geek Brains\\ЛЕКЦИИ И ПРАКТИКА\\3-.C#\\СЕМИНАРЫ\\дз\\Home_work_1\\8-Home_work_eighth_seminar\\54(8) дз-8\\54(8) дз-8.csproj",
         "projectName": "54(8) дз-8",
-        "projectPath": "F:\\кодинг\\Geek Brains\\ЛЕКЦИИ И ПРАКТИКА\\3-.C#\\СЕМИНАРЫ\\дз\\Home_work_1\\8-Home_work_seventh_seminar\\54(8) дз-8\\54(8) дз-8.csproj",
+        "projectPath": "F:\\кодинг\\Geek Brains\\ЛЕКЦИИ И ПРАКТИКА\\3-.C#\\СЕМИНАРЫ\\дз\\Home_work_1\\8-Home_work_eighth_seminar\\54(8) дз-8\\54(8) дз-8.csproj",
         "packagesPath": "C:\\Users\\Aleks\\.nuget\\packages\\",
-        "outputPath": "F:\\кодинг\\Geek Brains\\ЛЕКЦИИ И ПРАКТИКА\\3-.C#\\СЕМИНАРЫ\\дз\\Home_work_1\\8-Home_work_seventh_seminar\\54(8) дз-8\\obj\\",
+        "outputPath": "F:\\кодинг\\Geek Brains\\ЛЕКЦИИ И ПРАКТИКА\\3-.C#\\СЕМИНАРЫ\\дз\\Home_work_1\\8-Home_work_eighth_seminar\\54(8) дз-8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aleks\\AppData\\Roaming\\NuGet\\NuGet.Config"

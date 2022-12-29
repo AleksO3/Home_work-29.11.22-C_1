@@ -32,8 +32,8 @@ int n = ReadInt("Введите число столбцов 2-й матрицы:
 
 if (l != m)
 {
-  Console.WriteLine("Матрицы умножить невозможно! Число столбцов в первом сомножителе не равно числу строк во втором.");
-  return;
+    Console.WriteLine("Матрицы умножить невозможно! Число столбцов в первом сомножителе не равно числу строк во втором.");
+    return;
 }
 
 int varriable = ReadInt("Введите диапазон случайных чисел из которых будут матрицы: от 1 до 10");
@@ -54,38 +54,38 @@ PushArray(result);
 
 void RandomArray(int[,] array)
 {
-  for (int i = 0; i < array.GetLength(0); i++)
-  {
-    for (int j = 0; j < array.GetLength(1); j++)
+    for (int i = 0; i < array.GetLength(0); i++)
     {
-      array[i, j] = new Random().Next(varriable);
+        for (int j = 0; j < array.GetLength(1); j++)
+        {
+            array[i, j] = new Random().Next(varriable);
+        }
     }
-  }
 }
 
-void PushArray (int[,] array)
+void PushArray(int[,] array)
 {
-  for (int i = 0; i < array.GetLength(0); i++)
-  {
-    for (int j = 0; j < array.GetLength(1); j++)
+    for (int i = 0; i < array.GetLength(0); i++)
     {
-      Console.Write(array[i,j] + " ");
+        for (int j = 0; j < array.GetLength(1); j++)
+        {
+            Console.Write(array[i, j] + " ");
+        }
+        Console.WriteLine();
     }
-    Console.WriteLine();
-  }
 }
 
 int[,] MatrixProduct(int[,] firstMatr, int[,] secondMatr)
 {
-  int[,] resultMatr = new int[firstMatr.GetLength(0), secondMatr.GetLength(1)]; 
-  for (int i = 0; i < firstMatr.GetLength(0); i++)
-  {
-    for (int j = 0; j < secondMatr.GetLength(1); j++)
+    int[,] resultMatr = new int[firstMatr.GetLength(0), secondMatr.GetLength(1)];
+    for (int i = 0; i < firstMatr.GetLength(0); i++)
     {
-      
-        resultMatr[i,j] += firstMatr[i,j] * secondMatr[i,j];
-      
+        for (int j = 0; j < secondMatr.GetLength(1); j++)
+        {
+
+            resultMatr[i, j] += firstMatr[i, j] * secondMatr[i, j];
+
+        }
     }
-  }
-  return resultMatr;
+    return resultMatr;
 }
