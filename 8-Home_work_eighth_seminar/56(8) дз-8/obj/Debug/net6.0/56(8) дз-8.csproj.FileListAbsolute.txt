@@ -1,0 +1,15 @@
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\8-Home_work_eighth_seminar\56(8) дз-8\bin\Debug\net6.0\56(8) дз-8.exe
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\8-Home_work_eighth_seminar\56(8) дз-8\bin\Debug\net6.0\56(8) дз-8.deps.json
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\8-Home_work_eighth_seminar\56(8) дз-8\bin\Debug\net6.0\56(8) дз-8.runtimeconfig.json
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\8-Home_work_eighth_seminar\56(8) дз-8\bin\Debug\net6.0\56(8) дз-8.dll
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\8-Home_work_eighth_seminar\56(8) дз-8\bin\Debug\net6.0\56(8) дз-8.pdb
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\8-Home_work_eighth_seminar\56(8) дз-8\obj\Debug\net6.0\56(8) дз-8.csproj.AssemblyReference.cache
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\8-Home_work_eighth_seminar\56(8) дз-8\obj\Debug\net6.0\56(8) дз-8.GeneratedMSBuildEditorConfig.editorconfig
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\8-Home_work_eighth_seminar\56(8) дз-8\obj\Debug\net6.0\56(8) дз-8.AssemblyInfoInputs.cache
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\8-Home_work_eighth_seminar\56(8) дз-8\obj\Debug\net6.0\56(8) дз-8.AssemblyInfo.cs
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\8-Home_work_eighth_seminar\56(8) дз-8\obj\Debug\net6.0\56(8) дз-8.csproj.CoreCompileInputs.cache
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\8-Home_work_eighth_seminar\56(8) дз-8\obj\Debug\net6.0\56(8) дз-8.dll
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\8-Home_work_eighth_seminar\56(8) дз-8\obj\Debug\net6.0\refint\56(8) дз-8.dll
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\8-Home_work_eighth_seminar\56(8) дз-8\obj\Debug\net6.0\56(8) дз-8.pdb
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\8-Home_work_eighth_seminar\56(8) дз-8\obj\Debug\net6.0\56(8) дз-8.genruntimeconfig.cache
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\8-Home_work_eighth_seminar\56(8) дз-8\obj\Debug\net6.0\ref\56(8) дз-8.dll
