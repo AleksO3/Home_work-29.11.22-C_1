@@ -7,7 +7,7 @@
 // Программа считает сумму элементов в каждой строке и выдаёт номер строки с наименьшей суммой элементов: 1 строка
 Console.Clear();
 Console.Clear();
-int ReadInt(string message)                                      // Метод внесения данных
+int ReadInt(string message)                                      // Метод внесения данных.
 {
     Console.WriteLine(message);
     return Convert.ToInt32(Console.ReadLine());

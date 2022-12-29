@@ -19,7 +19,7 @@
 // 56 8 4 24
 // 10 6 24 49
 Console.Clear();
-int ReadInt(string message)
+int ReadInt(string message)                                             // Метод внесения данных.
 {
     Console.WriteLine(message);
     return Convert.ToInt32(Console.ReadLine());
@@ -30,7 +30,7 @@ int l = ReadInt("Введите число столбцов 1-й матрицы:
 int m = ReadInt("Введите число строк 2-й матрицы: ");
 int n = ReadInt("Введите число столбцов 2-й матрицы: ");
 
-if (l != m)
+if (l != m)                                                            // Огранечение условиями после ввода данных для созж-я массивов.
 {
     Console.WriteLine("Матрицы умножить невозможно! Число столбцов в первом сомножителе не равно числу строк во втором.");
     return;
@@ -52,18 +52,18 @@ int[,] result = MatrixProduct(firstMatr, secondMatr);
 Console.WriteLine("\n\t\tПроизведение матриц равно:");
 PushArray(result);
 
-void RandomArray(int[,] array)
+void RandomArray(int[,] array)                                            // Метод создания массива со случайными элементами в диапазоне,
 {
     for (int i = 0; i < array.GetLength(0); i++)
     {
         for (int j = 0; j < array.GetLength(1); j++)
         {
-            array[i, j] = new Random().Next(varriable);
+            array[i, j] = new Random().Next(varriable);                   // заданной переменной.
         }
     }
 }
 
-void PushArray(int[,] array)
+void PushArray(int[,] array)                                              // Метод, вывода массива.
 {
     for (int i = 0; i < array.GetLength(0); i++)
     {
@@ -75,7 +75,7 @@ void PushArray(int[,] array)
     }
 }
 
-int[,] MatrixProduct(int[,] firstMatr, int[,] secondMatr)
+int[,] MatrixProduct(int[,] firstMatr, int[,] secondMatr)                 // Произведение элементов массива.
 {
     int[,] resultMatr = new int[firstMatr.GetLength(0), secondMatr.GetLength(1)];
     for (int i = 0; i < firstMatr.GetLength(0); i++)

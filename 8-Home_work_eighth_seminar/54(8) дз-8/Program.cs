@@ -10,7 +10,7 @@
 // 2 3 5 9
 // 2 4 4 8
 Console.Clear();
-int ReadInt(string message)                                         // Метод внесения данных
+int ReadInt(string message)                                         // Метод внесения данных.
 {
     Console.WriteLine(message);
     return Convert.ToInt32(Console.ReadLine());
