@@ -59,3 +59,33 @@
 // Console.Write(centerText);
  
 // Console.ReadKey();                                                   //Ждём нажатия клавиши перед выходом
+
+
+
+// int[,,] GetRandomMatrix(int[] length, int min, int max)              // Метод создания трехмерного массива.
+// {
+//     int[,,] result = new int[length[0], length[1], length[2]];
+
+//     for (int i = 0; i < result.GetLength(0); i++)
+//     {
+//         for (int j = 0; j < result.GetLength(1); j++)
+//         {
+//             for (int k = 0; k < result.GetLength(2); k++)
+//             {
+//                 int digit = new Random().Next(min, max + 1);
+//                 if (FindElement(result, digit)) 
+//                 {
+//                     continue;
+//                 }
+//                 result[i, j, k] = digit;
+//             }
+//         }
+//     }
+//     return result;
+// }
+
+
+
+// Split создает массив подстрок, разбивая входную строку по одному или нескольким разделителям.
+// Чтобы исключить из результирующего массива пустые подстроки, вызываем перегрузку и указываем StringSplitOptions.RemoveEmptyEntries.
+// string[] numbers = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries);
