@@ -9,6 +9,7 @@
 
 
 // 4-й семинар в задачу на 18 строку int A = ReadInt("Введите число: ");
+
 // Console.WriteLine(string.Join(", ", array)); 
 
 
