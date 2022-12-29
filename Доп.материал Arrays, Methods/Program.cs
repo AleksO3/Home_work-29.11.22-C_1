@@ -49,3 +49,13 @@
 // const int LENGTH = 5;
 // const int LEFTRANGE = -9;
 // const int RIGHTRANGE = 9;
+
+
+// string centerText = "Center";                                        //Инициализируем переменные, содержащие строки вывода
+// //Выводим строку в центре экрана
+// int centerX = (Console.WindowWidth / 2) - (centerText.Length / 2);
+// int centerY = (Console.WindowHeight / 2) - 1;
+// Console.SetCursorPosition(centerX, centerY);
+// Console.Write(centerText);
+ 
+// Console.ReadKey();                                                   //Ждём нажатия клавиши перед выходом
