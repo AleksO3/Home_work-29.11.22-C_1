@@ -18,7 +18,7 @@ int i = 0;
 int j = 0;
 int step = 1;                                                          // Назначаем временную переменную.
 
-void PushArray(int[,] array)                                           // Метод, вывода массива.
+void PushArray(int[,] array)                                           // Метод вывода массива.
 {
     for (int i = 0; i < array.GetLength(0); i++)
     {

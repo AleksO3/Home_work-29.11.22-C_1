@@ -13,3 +13,18 @@ F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНА�
 F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\Class_works\69\obj\Debug\net6.0\69.pdb
 F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\Class_works\69\obj\Debug\net6.0\69.genruntimeconfig.cache
 F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\Class_works\69\obj\Debug\net6.0\ref\69.dll
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\Class_works\69 Qwestion\bin\Debug\net6.0\69.exe
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\Class_works\69 Qwestion\bin\Debug\net6.0\69.deps.json
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\Class_works\69 Qwestion\bin\Debug\net6.0\69.runtimeconfig.json
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\Class_works\69 Qwestion\bin\Debug\net6.0\69.dll
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\Class_works\69 Qwestion\bin\Debug\net6.0\69.pdb
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\Class_works\69 Qwestion\obj\Debug\net6.0\69.csproj.AssemblyReference.cache
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\Class_works\69 Qwestion\obj\Debug\net6.0\69.GeneratedMSBuildEditorConfig.editorconfig
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\Class_works\69 Qwestion\obj\Debug\net6.0\69.AssemblyInfoInputs.cache
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\Class_works\69 Qwestion\obj\Debug\net6.0\69.AssemblyInfo.cs
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\Class_works\69 Qwestion\obj\Debug\net6.0\69.csproj.CoreCompileInputs.cache
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\Class_works\69 Qwestion\obj\Debug\net6.0\69.dll
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\Class_works\69 Qwestion\obj\Debug\net6.0\refint\69.dll
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\Class_works\69 Qwestion\obj\Debug\net6.0\69.pdb
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\Class_works\69 Qwestion\obj\Debug\net6.0\69.genruntimeconfig.cache
+F:\кодинг\Geek Brains\ЛЕКЦИИ И ПРАКТИКА\3-.C#\СЕМИНАРЫ\дз\Home_work_1\Class_works\69 Qwestion\obj\Debug\net6.0\ref\69.dll
