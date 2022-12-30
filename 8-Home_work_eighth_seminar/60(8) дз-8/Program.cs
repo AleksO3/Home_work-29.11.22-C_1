@@ -45,7 +45,7 @@ int[,,] GetRandomMatrix(int[] length, int min, int max)                     // �
 }
 
 
-void PushArray(int[,,] array)                                           // Выводим массив.
+void PushArray(int[,,] array)                                           // Метод вывода массива.
 {
     for (int i = 0; i < array.GetLength(0); i++)
     {
