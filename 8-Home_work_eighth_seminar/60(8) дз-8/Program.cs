@@ -33,7 +33,7 @@ int[,,] GetRandomMatrix(int[] length, int min, int max)                     // �
             for (int k = 0; k < result.GetLength(2); k++)
             {
                 int digit = new Random().Next(min, max + 1);
-                if (FindDigits(result, digit))                      
+                if (FindDigits(result, digit))
                 {
                     continue;
                 }
@@ -66,6 +66,6 @@ Console.WriteLine("Размеры массива вводите через пр�
 // Чтобы исключить из результирующего массива пустые подстроки, вызываем перегрузку и указываем StringSplitOptions.RemoveEmptyEntries.
 string[] numbers = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries);
 // Метод Parse() в качестве параметра принимает строку и возвращает объект текущего типа.
-int[,,] array = GetRandomMatrix(new int[] { int.Parse(numbers[0]), int.Parse(numbers[1]), int.Parse(numbers[2]), }, 10, 99);
+int[,,] array = GetRandomMatrix(new int[] { int.Parse(numbers[0]), int.Parse(numbers[1]), int.Parse(numbers[2]) }, 10, 99);
 Console.Write("\n");
 PushArray(array);
