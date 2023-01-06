@@ -1,63 +1,37 @@
-﻿bool FindDigits(int[,,] array, int element)                            // Метод типа bool, Ставим условие на правду-ложь(true-false).
+﻿int[,,] Matrix3d = new int[2, 2, 2];
+FillArray(Matrix3d);
+PrintIndex(Matrix3d);
+
+
+// Функция вывода индекса элементов 3D массива
+void PrintIndex(int[,,] arr)
 {
-    for (int i = 0; i < array.GetLength(0); i++)                       // Понадобится для метода GetRandomMatrix.
+    for (int i = 0; i<Matrix3d.GetLength(0); i++)
     {
-        for (int j = 0; j < array.GetLength(1); j++)
+        for (int j = 0; j<Matrix3d.GetLength(1); j++)
         {
-            for (int k = 0; k < array.GetLength(2); k++)
+            Console.WriteLine();
+            for (int k = 0; k<Matrix3d.GetLength(2); k++)
             {
-                if (array[i, j, k] == element) return true;
+                Console.Write($"{Matrix3d[i, j, k]}[{i},{j},{k}] ");
             }
         }
     }
-    return false;
 }
 
-
-int[,,] GetRandomMatrix(int[] length, int min, int max)                     // Метод создания трехмерного массива.
+// Функция заполнения 3D массива не повторяющимеся числами
+void FillArray(int[,,] array)
 {
-    int[,,] result = new int[length[0], length[1], length[2]];
-
-    for (int i = 0; i < result.GetLength(0); i++)
-    {
-        for (int j = 0; j < result.GetLength(1); j++)
-        {
-            for (int k = 0; k < result.GetLength(2); k++)
-            {
-                int digit = new Random().Next(min, max + 1);
-                if (FindDigits(result, digit))                      
-                {
-                    continue;
-                }
-                result[i, j, k] = digit;
-            }
-        }
-    }
-    return result;
-}
-
-
-void PushArray(int[,,] array)                                           // Метод вывода массива.
-{
+    int count = 10;
     for (int i = 0; i < array.GetLength(0); i++)
     {
         for (int j = 0; j < array.GetLength(1); j++)
         {
             for (int k = 0; k < array.GetLength(2); k++)
             {
-                Console.Write($"{array[i, j, k]} ({i},{j},{k}) \t");
+                array[k, i, j] += count;
+                count += 3;
             }
-            Console.WriteLine("\n");
         }
     }
 }
-
-Console.WriteLine("Размеры массива вводите через пробел:");
-
-// Split создает массив подстрок, разбивая входную строку по одному или нескольким разделителям.
-// Чтобы исключить из результирующего массива пустые подстроки, вызываем перегрузку и указываем StringSplitOptions.RemoveEmptyEntries.
-string[] numbers = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries);
-// Метод Parse() в качестве параметра принимает строку и возвращает объект текущего типа.
-int[,,] array = GetRandomMatrix(new int[] { int.Parse(numbers[0]), int.Parse(numbers[1]), int.Parse(numbers[2]), }, 10, 99);
-Console.Write("\n");
-PushArray(array);
